@@ -1,0 +1,25 @@
+BACKUP ~Derats_Thingies/Backup~
+AUTHOR ~Deratiseur, at the_deratiseur@hotmail.com~
+VERSION ~v1~
+
+LANGUAGE ~Francais~
+	~French~
+	~Derats_Thingies/Languages/French/setup.tra~
+LANGUAGE ~English~
+	~English~
+	~Derats_Thingies/Languages/English/setup.tra~
+
+BEGIN @1
+ACTION_IF GAME_IS ~BGT TOB BGEE BG2EE IWDEE EET~ THEN BEGIN
+COPY	~Derats_Thingies/items/pxxattck.itm~		~override~	SAY NAME2 @101	SAY DESC @102
+COPY	~Derats_Thingies/items/pxxcastr.itm~		~override~	SAY NAME2 @103	SAY DESC @104
+COPY	~Derats_Thingies/items/pxddevas.eff~		~override~
+COPY	~Derats_Thingies/items/pxxvictm.itm~		~override~	SAY NAME2 @105	SAY DESC @106
+COPY	~Derats_Thingies/items/pxxtout.itm~			~override~	SAY NAME2 @1013	SAY DESC @1014
+END
+
+ACTION_IF GAME_IS ~BGEE BG2EE IWDEE EET~ THEN BEGIN
+COPY	~Derats_Thingies/items/pxxcrit.itm~			~override~	SAY NAME2 @107	SAY DESC @108
+COPY	~Derats_Thingies/items/pxxrate.itm~			~override~	SAY NAME2 @109	SAY DESC @1010
+COPY	~Derats_Thingies/items/pxxsourn.itm~		~override~	SAY NAME2 @1011	SAY DESC @1012
+END

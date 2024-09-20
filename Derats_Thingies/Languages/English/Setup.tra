@@ -1,0 +1,50 @@
+@1 = ~Derat's Modming Thingies~
+@2 = ~This component only works with an IE game, except PST.~
+@3 = ~This component only works with an IE Enhanced game.~
+
+@101 = ~Ring for modder: ATTACK~
+@102 = ~This ring to be given to your test characters (your attackers) confers:
++20 to Hit
+10 attacks per round.~
+
+@103 = ~Ring for modder: CASTER~
+@104 = ~This ring to be given to your test characters (your spellcasters) confers:
+Aura Cheansing
+Casting time = 0
+All spells and abilities refresh every second
+Double the number of memorizable spells~
+
+@105 = ~Ring for modder: VICTIM~
+@106 = ~This ring to be given to your test characters (your targets) confers:
+Minimum hit points set at 1
+Regeneration of 10 hp/second
+Automatic failure of all saving throws
+(in EE editions) Automatic resurrection on death.~
+
+@107 = ~Amulet for modder: CRITICAL~
+@108 = ~This amulet to be given to your test characters (your attackers) confers:
++20 to Hit
+All your attacks are critical hits
+
+To test the effect #341 "Cast spell on critical hit"~
+
+@109 = ~Amulet for modder: MISS !~
+@1010 = ~This amulet to be given to your test characters (your attackers) confers:
++20 to Hit
+All your attacks are critical miss
+
+To test the effect #361 "Cast spell on critical miss"~
+
+@1011= ~Amulet for modder: BACKSTAB~
+@1012 = ~This amulet to be given to your test characters (your attackers) confers:
++20 to Hit
+Ability to perform sneak attacks x5
+All your attacks are sneak attacks
+
+To test the effect #340 "Cast spell on backstab"~
+
+@1013 = ~Ioun's stone for modders: ALL~
+@1014 = ~This Ioun stone to give to your test characters confers:
+All characteristics set at 19
+Ability to use all items
+A mage wearing armor no longer loses the ability to cast spells.~
