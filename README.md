@@ -7,7 +7,7 @@
 [Link to original Mod Forum](https://www.baldursgateworld.fr/viewtopic.php?t=34587)
 
 # Bidules pour moddeurs
-Des objets à donner à vos personages de test pour des essais infinis
+Des objets à donner à vos personages de test pour des essais infinis :
 
 Anneau PXXATTCK pour 10 attaques par round et Toucher +20 (pour tester tous les effets "on hit").
 
