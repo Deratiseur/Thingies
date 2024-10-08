@@ -8,10 +8,12 @@
 
 # Bidules pour moddeurs
 Des objets à donner à vos personages de test pour des essais infinis
-
 Anneau PXXATTCK pour 10 attaques par round et Toucher +20 (pour tester tous les effets "on hit").
+
 Anneau PXXVICTM pour 1 point de vie minimum, régénération de 10pvs/seconde, -20 à tous les jets de sauvegarde, et dans les éditions EE résurrection automatique en cas de mort (pour les victimes : lancez leur des sorts, attaquez les, il n'en mourrons pas et ne vous forcereons pas à recharger).
+
 Anneau PXXCASTR pour Enchaînement, Temps d'incantation fixés à 0, Restauration de tous les sorts chaque seconde et nombre de sorts mémorisables doublé (pour vos lanceurs de sorts pour tester les sort sorts instantanément, sans limite, sans recharge et sans dormir).
+
 Pierre de Ioun PXXTOUT pour utiliser tous les objets et pour un mage de porter une armure sans empêcher le lancements de sorts (pour pouvoir vraiment tester tous les objets).
 
 Et uniquement pour les éditions EE :
