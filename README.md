@@ -42,6 +42,6 @@ And only for EE editions:
 
 PXXCRIT amulet for To Hit +20 and all attacks are critical hits (to test effect #341 "Cast spell on critical hit").
 
-PXXRATE: amulet for To Hit +20 and all attacks are critical misses (to test  effect #361 "Cast spell on critical hit").
+PXXRATE amulet for To Hit +20 and all attacks are critical misses (to test  effect #361 "Cast spell on critical hit").
 
-PXXSOURN: amulet for To hit +20, the character can make sneak attacks x5 and all attacks are sneak attacks (to test  effect #340 "Cast spell on backstab").
+PXXSOURN amulet for To hit +20, the character can make sneak attacks x5 and all attacks are sneak attacks (to test  effect #340 "Cast spell on backstab").
