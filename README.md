@@ -27,7 +27,7 @@ Amulettes PXXSOURN pour Toucher +20, le personnage peut faire des attaque sourno
 
 -----------------------------------------------------------------
 
-# Thingies-for-modders
+# Thingies for modders
 Items to give to yout tester guys for infinite tests:
 
 PXXATTCK ring for 10 APR and To Hit +20 (for anyone, to test all "on hit" effects).
