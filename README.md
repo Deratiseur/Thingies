@@ -16,7 +16,7 @@ Des objets à donner à vos personages de test pour des essais infinis :
 
 - Anneau PXXCASTR pour Enchaînement, Temps d'incantation fixés à 0, Restauration de tous les sorts chaque seconde et nombre de sorts mémorisables doublé (pour vos lanceurs de sorts pour tester les sort sorts instantanément, sans limite, sans recharge et sans dormir).
 
-- Pierre de Ioun PXXTOUT pour utiliser tous les objets et pour un mage de porter une armure sans empêcher le lancements de sorts (pour pouvoir vraiment tester tous les objets).
+- Pierre de Ioun PXXTOUT pour utiliser tous les objets et pour un mage porter une armure sans empêcher le lancements de sorts (pour pouvoir vraiment tester tous les objets).
 
 - Baguette PXXKILL qui tue tous les ennemis dans une très large zone sans jet de sauvegarde ni résistance ni immunité.
 
