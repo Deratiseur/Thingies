@@ -1,6 +1,6 @@
 BACKUP ~Derats_Thingies/Backup~
 AUTHOR ~Deratiseur, at the_deratiseur@hotmail.com~
-VERSION ~v1~
+VERSION ~v3~
 
 LANGUAGE ~Francais~
 	~French~
@@ -16,6 +16,7 @@ COPY	~Derats_Thingies/items/pxxcastr.itm~		~override~	SAY NAME2 @103	SAY DESC @1
 COPY	~Derats_Thingies/items/pxddevas.eff~		~override~
 COPY	~Derats_Thingies/items/pxxvictm.itm~		~override~	SAY NAME2 @105	SAY DESC @106
 COPY	~Derats_Thingies/items/pxxtout.itm~			~override~	SAY NAME2 @1013	SAY DESC @1014
+COPY	~Derats_Thingies/items/pxxkill.itm~			~override~	SAY NAME2 @1015	SAY DESC @1016
 END
 
 ACTION_IF GAME_IS ~BGEE BG2EE IWDEE EET~ THEN BEGIN

@@ -48,3 +48,6 @@ Pour tester l'effet #340 "Cast spell on backstab"~
 Toutes les caractéristiques fixées à 19
 Possibilité d'utiliser tous les objets
 Un mage portant une armure ne perd plus la possibilité de lancer des sorts.~
+
+@1015 = ~Baguette pour modeur : TUE !~
+@1016 = ~Cette baguette à usage infini tue tous les ennemis dans une très large zone. Sans jet de sauvegarde, sans résistance ou immunité. Marche sur tout.~

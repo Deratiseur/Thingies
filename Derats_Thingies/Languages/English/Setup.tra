@@ -48,3 +48,6 @@ To test the effect #340 "Cast spell on backstab"~
 All characteristics set at 19
 Ability to use all items
 A mage wearing armor no longer loses the ability to cast spells.~
+
+@1015 = ~Wand for modders: KILL!~
+@1016 = ~This infinitely usable wand kills all enemies in a very wide area. No saving throw, resistance or immunity. Works on everything.
