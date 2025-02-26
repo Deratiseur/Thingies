@@ -26,7 +26,7 @@ Et uniquement pour les éditions EE :
 
 - Amulettes PXXCRIT pour Toucher +20 et toutes les attaques sont des coups critiques (pour l'effet #341 "Cast spell on critical hit").
 
-- Amulettes PXXRATE pour Toucher +20 et toutes les attaques sont des ratées critiques (pour l'effet #361 "Cast spell on critical hit").
+- Amulettes PXXRATE pour Toucher +20 et toutes les attaques sont des ratées critiques (pour l'effet #361 "Cast spell on critical miss").
 
 - Amulettes PXXSOURN pour Toucher +20, le personnage peut faire des attaque sournoise x5 et toutes les attaques sont des attaques sournoises (pour l'effet #340 "Cast spell on backstab").
 
@@ -51,6 +51,6 @@ And only for EE editions:
 
 - PXXCRIT amulet for To Hit +20 and all attacks are critical hits (to test effect #341 "Cast spell on critical hit").
 
-- PXXRATE amulet for To Hit +20 and all attacks are critical misses (to test  effect #361 "Cast spell on critical hit").
+- PXXRATE amulet for To Hit +20 and all attacks are critical misses (to test  effect #361 "Cast spell on critical miss").
 
 - PXXSOURN amulet for To hit +20, the character can make sneak attacks x5 and all attacks are sneak attacks (to test  effect #340 "Cast spell on backstab").
