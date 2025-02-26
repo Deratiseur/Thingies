@@ -1,0 +1,54 @@
+@1 = ~Derat's Modding Thingies~
+@2 = ~Ce composant ne fonctionne qu'avec un jeu IE, sauf PST.~
+@3 = ~Ce composant ne fonctionne qu'avec un jeu IE en version Enhanced.~
+@4 = ~Recevoir les objets automatiquement au rechargement~
+
+@101 = ~Anneau pour moddeur : ATTACK~
+@102 = ~Cet anneau à donner à vos personnages de test (vos attaquants) confère :
++20 au toucher
+10 attaques par round~
+
+@103 = ~Anneau pour moddeur : CASTER~
+@104 = ~Cet anneau à donner à vos personnages de test (vos lanceurs de sorts) confère :
+Enchaînement
+Temps d'incantation 0
+Rafraîchissement de tous les sorts et de toutes les capacités chaque seconde
+Doublement du nombre de sorts mémorisable~
+
+@105 = ~Anneau pour moddeur : VICTIME~
+@106 = ~Cet anneau à donner à vos personnages de test (vos cibles) confère :
+Point de vie minimums fixés à 1
+Régénération de 10 pvs/seconde
+Échec automatique de tous les jets de sauvegarde
+(dans les éditions EE) Résurrection automatique en cas de mort~
+
+@107 = ~Amulette pour moddeur : CRITIQUE~
+@108 = ~Cet anneau à donner à vos personnages de test (vos attaquants) confère :
++20 au toucher
+Toutes vos attaques sont des coups critiques
+
+Pour tester l'effet #341 "Cast spell on critical hit"~
+
+@109 = ~Amulette pour moddeur : RATÉ !~
+@1010 = ~Cet anneau à donner à vos personnages de test (vos attaquants) confère :
++20 au toucher
+Toutes vos attaques sont des ratés critiques
+
+Pour tester l'effet #361 "Cast spell on critical miss"~
+
+@1011= ~Amulette pour moddeur : SOURNOISE~
+@1012 = ~Cet anneau à donner à vos personnages de test (vos attaquants) confère :
++20 au toucher
+Capacité d'effectuer des attaques sournoises x5
+Toutes vos attaques sont des attaques sournoises
+
+Pour tester l'effet #340 "Cast spell on backstab"~
+
+@1013 = ~Pierre d'Ioun pour moddeur : TOUT~
+@1014 = ~Cette pierre d'Ioun à donner à vos personnages de test confère :
+Toutes les caractéristiques fixées à 19
+Possibilité d'utiliser tous les objets
+Un mage portant une armure ne perd plus la possibilité de lancer des sorts.~
+
+@1015 = ~Baguette pour modeur : TUE !~
+@1016 = ~Cette baguette à usage infini tue tous les ennemis dans une très large zone. Sans jet de sauvegarde, sans résistance ou immunité. Marche sur tout.~

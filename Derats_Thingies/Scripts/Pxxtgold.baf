@@ -1,0 +1,17 @@
+IF
+  Global("PX_Thingies","MYAREA",0)
+THEN
+  RESPONSE #100
+    SetGlobal("PX_Thingies","MYAREA",1)
+    GiveItemCreate("pxxattck",Player1,1,1,0)
+	GiveItemCreate("pxxcastr",Player1,1,1,0)
+	GiveItemCreate("pxxkill",Player1,1,1,0)
+	GiveItemCreate("pxxtout",Player1,1,1,0)
+	GiveItemCreate("pxxvictm",Player1,1,1,0)
+	GiveItemCreate("pxxvictm",Player2,1,1,0)
+	GiveItemCreate("pxxvictm",Player3,1,1,0)
+	GiveItemCreate("pxxvictm",Player4,1,1,0)
+	GiveItemCreate("pxxvictm",Player5,1,1,0)
+	GiveItemCreate("pxxvictm",Player6,1,1,0)
+    Continue()
+END

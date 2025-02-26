@@ -5,6 +5,9 @@ VERSION ~v3~
 LANGUAGE ~Francais~
 	~French~
 	~Derats_Thingies/Languages/French/setup.tra~
+LANGUAGE ~Francais pour les editions EE~
+	~FrenchEE~
+	~Derats_Thingies/Languages/FrenchEE/setup.tra~
 LANGUAGE ~English~
 	~English~
 	~Derats_Thingies/Languages/English/setup.tra~
@@ -23,4 +26,14 @@ ACTION_IF GAME_IS ~BGEE BG2EE IWDEE EET~ THEN BEGIN
 COPY	~Derats_Thingies/items/pxxcrit.itm~			~override~	SAY NAME2 @107	SAY DESC @108
 COPY	~Derats_Thingies/items/pxxrate.itm~			~override~	SAY NAME2 @109	SAY DESC @1010
 COPY	~Derats_Thingies/items/pxxsourn.itm~		~override~	SAY NAME2 @1011	SAY DESC @1012
+END
+
+BEGIN @4
+ACTION_IF GAME_IS ~BGT TOB~ THEN BEGIN
+EXTEND_TOP ~baldur.bcs~ ~Derats_Thingies\Scripts\Pxxtgold.baf~
+EXTEND_TOP ~baldur25.bcs~ ~Derats_Thingies\Scripts\Pxxtgold.baf~
+END
+ACTION_IF GAME_IS ~BGEE BG2EE IWDEE EET~ THEN BEGIN
+EXTEND_TOP ~baldur.bcs~ ~Derats_Thingies\Scripts\PxxtgEE.baf~
+EXTEND_TOP ~baldur25.bcs~ ~Derats_Thingies\Scripts\PxxtgEE.baf~
 END
