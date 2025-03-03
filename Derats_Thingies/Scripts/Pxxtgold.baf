@@ -1,8 +1,8 @@
 IF
-  Global("PX_Thingies","MYAREA",0)
+  Global("PX_Thingies","GLOBAL",0)
 THEN
   RESPONSE #100
-    SetGlobal("PX_Thingies","MYAREA",1)
+    SetGlobal("PX_Thingies","GLOBAL",1)
     GiveItemCreate("pxxattck",Player1,1,1,0)
 	GiveItemCreate("pxxcastr",Player1,1,1,0)
 	GiveItemCreate("pxxkill",Player1,1,1,0)
