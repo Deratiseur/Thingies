@@ -1,0 +1,19 @@
+IF
+  Global("PX_Thingies","GLOBAL",0)
+THEN
+  RESPONSE #100
+    SetGlobal("PX_Thingies","GLOBAL",1)
+	ActionOverride("Picture1",CreateItem("pxxattck",0,0,0))
+	ActionOverride("Picture1",CreateItem("pxxcastr",0,0,0))
+	ActionOverride("Picture1",CreateItem("pxxkill",0,0,0))
+	ActionOverride("Picture1",CreateItem("pxxtout",0,0,0))
+	ActionOverride("Picture1",CreateItem("pxxvictm",0,0,0))
+	ActionOverride("Picture1",CreateItem("pxxvictm",0,0,0))
+	ActionOverride("Picture1",CreateItem("pxxvictm",0,0,0))
+	ActionOverride("Picture1",CreateItem("pxxvictm",0,0,0))
+	ActionOverride("Picture1",CreateItem("pxxvictm",0,0,0))
+	ActionOverride("Picture1",CreateItem("pxxvictm",0,0,0))
+	ActionOverride("Picture1",CreateItem("pxxcrit",0,0,0))
+	ActionOverride("Picture1",CreateItem("pxxsourn",0,0,0))
+	ActionOverride("Picture1",CreateItem("pxxrate",0,0,0))
+END

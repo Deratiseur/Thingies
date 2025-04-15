@@ -1,5 +1,6 @@
 IF
   Global("PX_Thingies","GLOBAL",0)
+  !AreaCheck("AR0602")
 THEN
   RESPONSE #100
     SetGlobal("PX_Thingies","GLOBAL",1)
