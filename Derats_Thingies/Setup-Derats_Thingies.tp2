@@ -1,6 +1,6 @@
 BACKUP ~Derats_Thingies/Backup~
 AUTHOR ~Deratiseur, at the_deratiseur@hotmail.com~
-VERSION ~v5~
+VERSION ~v5.1~
 
 LANGUAGE ~Francais~
 	~French~
@@ -19,7 +19,8 @@ COPY	~Derats_Thingies/items/pxxcastr.itm~		~override~	SAY NAME2 @103	SAY DESC @1
 COPY	~Derats_Thingies/items/pxddevas.eff~		~override~
 COPY	~Derats_Thingies/items/pxxvictm.itm~		~override~	SAY NAME2 @105	SAY DESC @106
 COPY	~Derats_Thingies/items/pxxtout.itm~			~override~	SAY NAME2 @1013	SAY DESC @1014
-COPY	~Derats_Thingies/items/pxxkill.itm~			~override~	SAY NAME2 @1015	SAY DESC @1016
+ADD_PROJECTILE	~Derats_Thingies/items/pxxkill.pro~	
+COPY	~Derats_Thingies/items/pxxkill.itm~			~override~	SAY NAME2 @1015	SAY DESC @1016	WRITE_SHORT 0x9c ~%pxxkill%~
 END
 
 ACTION_IF GAME_IS ~BGEE BG2EE IWDEE EET~ THEN BEGIN
@@ -34,7 +35,7 @@ EXTEND_TOP ~baldur.bcs~ ~Derats_Thingies/Scripts/Pxxtgold.baf~
 EXTEND_TOP ~baldur25.bcs~ ~Derats_Thingies/Scripts/Pxxtgold.baf~
 EXTEND_BOTTOM ~AR0602.BCS~   ~Derats_Thingies/Scripts/AR0602o.baf~
 END
-ACTION_IF GAME_IS ~BGEE BG2EE IWDEE EET~ THEN BEGIN
+ACTION_IF GAME_IS ~BGEE SoD BG2EE IWDEE EET~ THEN BEGIN
 EXTEND_TOP ~baldur.bcs~ ~Derats_Thingies/Scripts/PxxtgEE.baf~
 EXTEND_TOP ~baldur25.bcs~ ~Derats_Thingies/Scripts/PxxtgEE.baf~
 END
